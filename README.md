@@ -26,6 +26,11 @@
 
 [博客模板下载地址](https://github.com/EugeneGe/JMF_Blog)
 
+## 联系方式
+大家有什么想法和点子可以联系我，微信扫码添加：
+
+![微信联系](https://static.justmyfreedom.com//static/jmf/images/article/微信联系.png)
+
 ## 赞赏
 
 如果您觉得导航和博客做的还不错，想对我微小的工作一点激励，欢迎赞赏支持。
