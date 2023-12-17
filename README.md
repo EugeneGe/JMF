@@ -2,13 +2,13 @@
 
 大家好，我是闲者，一个闲着、不知道要做什么的菜鸟程序员！
 
-## 闲着 - 闲者何去
+## [闲着 - 闲者何去](https://justmyfreedom.com/)
 
 ![闲着首页](https://static.justmyfreedom.com//static/jmf/images/article/闲着首页.png)
 
 首页做的比较简单，仅仅是一个简单的展示页，后续可能会添加更多功能。
 
-## 闲着导航 - 自由探索世界
+## [闲着导航 - 自由探索世界](https://nav.justmyfreedom.com/)
 
 ![闲着导航](https://static.justmyfreedom.com//static/jmf/images/article/闲着导航.png)
 
@@ -18,7 +18,7 @@
 
 目前导航页面上的数据是从后台获取的，暂时不支持自定义设置导航，后续有时间会尽心更新改版。
 
-##  闲着博客 - 生活，如此而已！
+##  [闲着博客 - 生活，如此而已！](https://blog.justmyfreedom.com/)
 
 ![闲着博客](https://static.justmyfreedom.com//static/jmf/images/article/闲着博客.png)
 
