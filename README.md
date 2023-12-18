@@ -26,6 +26,13 @@
 
 [博客模板下载地址](https://github.com/EugeneGe/JMF_Blog)
 
+## 公众号
+
+感兴趣的朋友可以关注下我的公众号，新消息会在公众号上发布的：[闲者何去](https://mp.weixin.qq.com/s?__biz=Mzk0MTQzOTIzNw==&mid=2247483804&idx=1&sn=0fb018f1defd2aaf6f04dba35dd0ed29&chksm=c2d321f6f5a4a8e07df0a245ed465a53a7d725ea9695cb160c45f742dbc371d52694686c8035&scene=126&sessionid=1702867566#rd)
+
+![闲者何去公众号](https://static.justmyfreedom.com//static/jmf/images/article/公众号.jpg)
+
+
 ## 联系方式
 大家有什么想法和点子可以联系我，微信扫码添加：
 
